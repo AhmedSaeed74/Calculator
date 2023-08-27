@@ -23,7 +23,7 @@ Layers
  
 Application Layer
 
- The Application Layer orchestrates the calculation of arithmetic operations, including addition, subtraction, multiplication, and division. Upon entering the "=" sign, the result of the calculation is displayed on the LCD screen.
+ The Application Layer manages the calculation of arithmetic operations, including addition, subtraction, multiplication, and division. Upon entering the "=" sign, the result of the calculation is displayed on the LCD screen.
 
 Getting Started
 
