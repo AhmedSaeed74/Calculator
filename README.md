@@ -39,6 +39,6 @@ To begin using the Dynamic Calculator Application, follow these steps:
 
 5-Interface with the calculator through the keypad, perform arithmetic operations, and observe the results on the LCD display.
 
-link for a video showing how the calculator passes the test cases.
+Click the attached link to ensure successful execution by passing all test cases flawlessly.
 
 https://drive.google.com/file/d/1m8l5gqXNkB-4jlqSaLyHLjCkxiX1LdFt/view?usp=sharing
