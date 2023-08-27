@@ -28,10 +28,15 @@ Application Layer
 Getting Started
 
 To begin using the Dynamic Calculator Application, follow these steps:
+
 1-Configure the MCAL and HAL drivers according to your microcontroller specifications.
+
 2-Configure the desired LCD mode (4-bit or 8-bit) by modifying the appropriate settings in the LCD driver.
+
 3-Choose between polling or interrupt-based input for the keypad driver, based on your application's requirements.
+
 4-Utilize the dynamic memory allocation features of the calculator to input operands and operators as needed.
+
 5-Interface with the calculator through the keypad, perform arithmetic operations, and observe the results on the LCD display.
 
 link for a video showing how the calculator passes the test cases.
