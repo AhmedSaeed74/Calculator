@@ -3,20 +3,20 @@
 Welcome to the Dynamic Calculator! Experience limitless calculations with flexible input and configurable LCD and keypad drivers.
 
 Features
--Dynamic Memory Allocation: The calculator employs linked lists and dynamic memory allocation, allowing users to conveniently input any number of operands and operators. Inserting and deleting numbers and operators are streamlined for ease of use.
--Flexible LCD Configuration: The LCD driver can be configured to operate in either 4-bit mode or 8-bit mode, adapting to different hardware setups and requirements.
--Adaptable Keypad Handling: The keypad driver supports polling and interrupt-based modes, offering flexibility in capturing and processing user input.
+ Dynamic Memory Allocation: The calculator employs linked lists and dynamic memory allocation, allowing users to conveniently input any number of operands and operators. Inserting and deleting numbers and operators are streamlined for ease of use.
+ Flexible LCD Configuration: The LCD driver can be configured to operate in either 4-bit mode or 8-bit mode, adapting to different hardware setups and requirements.
+ Adaptable Keypad Handling: The keypad driver supports polling and interrupt-based modes, offering flexibility in capturing and processing user input.
 
 Layers
--MCAL Layer (Microcontroller Abstraction Layer)
+ MCAL Layer (Microcontroller Abstraction Layer)
  DIO Driver: This driver handles digital input and output operations, enabling interaction with external devices and components.
  External Interrupts Driver: Responsible for managing external interrupts, ensuring responsive interactions with peripherals like the keypad.
 
--HAL Layer (Hardware Abstraction Layer)
+ HAL Layer (Hardware Abstraction Layer)
  LCD Driver: This driver controls the LCD display module, offering the choice between 4-bit and 8-bit communication modes based on the hardware configuration.
  Keypad Driver: The keypad driver provides functionality to read and interpret keypad input, allowing users to interact with the calculator application.
  
--Application Layer
+Application Layer
  The Application Layer orchestrates the calculation of arithmetic operations, including addition, subtraction, multiplication, and division. Upon entering the "=" sign, the result of the calculation is displayed on the LCD screen.
 
 Getting Started
