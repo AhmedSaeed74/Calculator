@@ -1,0 +1,89 @@
+"..\std_types.h", line 19: warning #1376-D: (MISRA-C:2004 1.1/R) Ensure strict ANSI C mode (-ps) is enabled
+"..\dynamic_memory.h", line 25: warning #1496-D: (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("data")
+"..\bitwise_operation.h", line 19: warning #1428-D: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"..\bitwise_operation.h", line 19: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "REG" is used as an operand of # or ##.
+"..\bitwise_operation.h", line 22: warning #1428-D: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"..\bitwise_operation.h", line 22: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "REG" is used as an operand of # or ##.
+"..\bitwise_operation.h", line 25: warning #1428-D: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"..\bitwise_operation.h", line 25: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "REG" is used as an operand of # or ##.
+"..\bitwise_operation.h", line 28: warning #1428-D: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"..\bitwise_operation.h", line 28: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "REG" is used as an operand of # or ##.
+"..\bitwise_operation.h", line 28: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "REG" is used as an operand of # or ##.
+"..\bitwise_operation.h", line 28: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "num" is used as an operand of # or ##.
+"..\bitwise_operation.h", line 28: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "REG" is used as an operand of # or ##.
+"..\bitwise_operation.h", line 31: warning #1428-D: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"..\bitwise_operation.h", line 31: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "REG" is used as an operand of # or ##.
+"..\bitwise_operation.h", line 31: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "REG" is used as an operand of # or ##.
+"..\bitwise_operation.h", line 31: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "num" is used as an operand of # or ##.
+"..\bitwise_operation.h", line 31: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "REG" is used as an operand of # or ##.
+"..\bitwise_operation.h", line 34: warning #1428-D: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"..\bitwise_operation.h", line 34: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "REG" is used as an operand of # or ##.
+"..\bitwise_operation.h", line 37: warning #1428-D: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"..\bitwise_operation.h", line 37: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "REG" is used as an operand of # or ##.
+"..\bitwise_operation.h", line 40: warning #1428-D: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"..\bitwise_operation.h", line 40: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "REG" is used as an operand of # or ##.
+"..\bitwise_operation.h", line 40: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "BIT" is used as an operand of # or ##.
+"../main.c", line 30: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../main.c", line 69: warning #1383-D: (MISRA-C:2004 8.1/R) Functions shall have prototype declarations and the prototype shall be visible at both the function definition and call
+"../main.c", line 77: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../main.c", line 83: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../main.c", line 96: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 96: warning #1497-D: (MISRA-C:2004 5.7/A) No identifier name should be reused ("key")
+"../main.c", line 99: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../main.c", line 107: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../main.c", line 110: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../main.c", line 122: warning #1405-D: (MISRA-C:2004 12.5/R) The operands of a logical && or || shall be primary-expressions
+"../main.c", line 122: warning #1405-D: (MISRA-C:2004 12.5/R) The operands of a logical && or || shall be primary-expressions
+"../main.c", line 122: warning #1405-D: (MISRA-C:2004 12.5/R) The operands of a logical && or || shall be primary-expressions
+"../main.c", line 122: warning #1405-D: (MISRA-C:2004 12.5/R) The operands of a logical && or || shall be primary-expressions
+"../main.c", line 122: warning #1459-D: (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+"../main.c", line 129: warning #1473-D: (MISRA-C:2004 16.4/R) The identifiers used in the declaration and definition of a function shall be identical
+"../main.c", line 132: warning #1497-D: (MISRA-C:2004 5.7/A) No identifier name should be reused ("str1")
+"../main.c", line 133: warning #1497-D: (MISRA-C:2004 5.7/A) No identifier name should be reused ("str2")
+"../main.c", line 139: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../main.c", line 139: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../main.c", line 139: warning #1404-D: (MISRA-C:2004 12.4/R) The right-hand operand of a logical && or || operator shall not contain side effects
+"../main.c", line 139: warning #1405-D: (MISRA-C:2004 12.5/R) The operands of a logical && or || shall be primary-expressions
+"../main.c", line 139: warning #1405-D: (MISRA-C:2004 12.5/R) The operands of a logical && or || shall be primary-expressions
+"../main.c", line 142: warning #169-D: argument of type "uint8_t *" is incompatible with parameter of type "char *"
+"../main.c", line 143: warning #169-D: argument of type "uint8_t *" is incompatible with parameter of type "char *"
+"../main.c", line 146: warning #169-D: argument of type "uint8_t *" is incompatible with parameter of type "char *"
+"../main.c", line 146: warning #169-D: argument of type "uint8_t *" is incompatible with parameter of type "const char *"
+"../main.c", line 149: warning #1502-D: (MISRA-C:2004 20.10/R) The library functions atof, atoi and atol from library <stdlib.h> shall not be used
+"../main.c", line 149: warning #169-D: argument of type "uint8_t *" is incompatible with parameter of type "const char *"
+"../main.c", line 152: warning #1487-D: (MISRA-C:2004 12.2/R) The value of an expression shall be the same under any order of evaluation that the standard permits
+"../main.c", line 162: warning #1460-D: (MISRA-C:2004 16.7/A) A pointer parameter in a function prototype should be declared as pointer to const if the pointer is not used to modify the addressed object ("head: struct Node *const *")
+"../main.c", line 168: warning #1473-D: (MISRA-C:2004 16.4/R) The identifiers used in the declaration and definition of a function shall be identical
+"../main.c", line 178: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../main.c", line 180: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../main.c", line 180: warning #1485-D: (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values
+"../main.c", line 187: warning #1487-D: (MISRA-C:2004 12.2/R) The value of an expression shall be the same under any order of evaluation that the standard permits
+"../main.c", line 190: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../main.c", line 190: warning #1485-D: (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values
+"../main.c", line 198: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../main.c", line 198: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../main.c", line 202: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../main.c", line 213: warning #1487-D: (MISRA-C:2004 12.2/R) The value of an expression shall be the same under any order of evaluation that the standard permits
+"../main.c", line 224: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../main.c", line 226: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../main.c", line 226: warning #1485-D: (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values
+"../main.c", line 233: warning #1487-D: (MISRA-C:2004 12.2/R) The value of an expression shall be the same under any order of evaluation that the standard permits
+"../main.c", line 236: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../main.c", line 236: warning #1485-D: (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values
+"../main.c", line 243: warning #1487-D: (MISRA-C:2004 12.2/R) The value of an expression shall be the same under any order of evaluation that the standard permits
+"../main.c", line 205: warning #1468-D: (MISRA-C:2004 14.7/R) A function shall have a single point of exit at the end of the function
+"../main.c", line 257: warning #1473-D: (MISRA-C:2004 16.4/R) The identifiers used in the declaration and definition of a function shall be identical
+"../main.c", line 259: warning #1497-D: (MISRA-C:2004 5.7/A) No identifier name should be reused ("temp")
+"../main.c", line 261: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../main.c", line 271: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../main.c", line 271: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../main.c", line 271: warning #1459-D: (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+"../main.c", line 277: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../main.c", line 277: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../main.c", line 277: warning #1459-D: (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+"../main.c", line 279: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../main.c", line 279: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../main.c", line 283: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../main.c", line 283: warning #1485-D: (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values
+"../main.c", line 295: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../main.c", line 305: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
