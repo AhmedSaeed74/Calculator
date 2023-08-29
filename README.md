@@ -42,3 +42,7 @@ To begin using the Dynamic Calculator Application, follow these steps:
 Click the attached link to ensure successful execution by passing all test cases flawlessly.
 
 https://drive.google.com/file/d/1m8l5gqXNkB-4jlqSaLyHLjCkxiX1LdFt/view?usp=sharing
+
+Misra C report
+
+https://drive.google.com/file/d/163muGWgm9_1B0WAIOSvUBeByCzRNY6aR/view?usp=sharing
